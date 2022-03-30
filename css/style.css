@@ -1,4 +1,10 @@
+@font-face {
+    font-family: 'Digital';
+    src: url('digital.ttf');
+}
 
+
+@import url('http://fonts.cdnfonts.com/css/digital-7-mono');
 
 
 .calculadora {
@@ -41,6 +47,10 @@
     margin-bottom: 20px;
     border: solid 1px #000;
     box-shadow: 1px 1px 1px #000;
+    font-weight: bold ;
+    font-family: 'Digital-7 Mono', sans-serif;
+    
+                                                
   }
 
   
