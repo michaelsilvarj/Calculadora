@@ -19,7 +19,12 @@
 
   .clear {
     width: 130px;
+    color:red;    
   }
+
+ .clear:hover{
+    color: rgb(190, 45, 45);
+}
 
   .enter {
     height: 110px;
@@ -37,3 +42,5 @@
     border: solid 1px #000;
     box-shadow: 1px 1px 1px #000;
   }
+
+  
