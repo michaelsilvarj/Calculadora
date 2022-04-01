@@ -1,5 +1,5 @@
 # Calculadora (Em atualização)
-<hr>
+
 <div>
 <h3>Linguagens utilizadas nesse projeto </h3>
   
@@ -8,9 +8,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40 px" whidth="20px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40 px" whidth="20px"/>
           
-          
- </div>         
-
+ </div> 
+ 
+<hr>
 <p>
 Projeto desenvolvido para fins de estudo  de uma calculadora.
 Neste projeto foi incluso efeito sonoro com ativação e desativação do bip, através do duplo click no botão C.
