@@ -20,4 +20,4 @@ Neste projeto foi incluso efeito sonoro com ativação e desativação do bip, a
 <img src="Calculadoragit.gif" height="200 px" whidth="60px"></img>
 </div>
 
-https://michaelsilvarj.github.io/Calculadora/
+<p>https://michaelsilvarj.github.io/Calculadora/</p>
